@@ -1,0 +1,3 @@
+Position 1: (203, 50)
+Position 2: (203, 850)
+Position 3: (1267, 52)
